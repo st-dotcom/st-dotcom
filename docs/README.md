@@ -43,8 +43,8 @@ Email: example@gmail.com / GitHub: https://st-dotcom.github.io/st-dotcom/
 
 ## 資格・賞罰 / Awards & Certificates
 
-* 20XX年 X月: [取得資格やコンペの結果など]
-* 20XX年 X月: [TOEICスコアなど]
+* 2024年 3月: 札幌市食品衛生責任者 取得
+* 2025年 1月: TOEIC R&L 695点
 
 ---
-© 2026 Your Name. All rights reserved.
+© 2026 S.T. All rights reserved.
