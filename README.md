@@ -1,21 +1,21 @@
-# 氏名 / Your Name
+# 氏名 / S.T.
 
 [所属：北海道大学 工学部 情報エレクトロニクス学科 4年]  
-Email: [your-email] [at] gmail.com / GitHub: [your-github-id]
+Email: example@gmail.com / GitHub: 
 
 ---
 
 ## 経歴 / Biography
 
-* **2022.04 - 現在** **北海道大学** 工学部 情報エレクトロニクス学科
-* **20XX.04 - 2022.03** [出身高校名] 卒業
+* **2022.04 - 現在 北海道大学 工学部 情報エレクトロニクス学科
+* **2018.04 - 2021.03 secret高校 卒業
 
 ---
 
 ## 研究テーマ / Research Interests
 
-* **[研究題目や興味のある分野]** (例) LLMを用いたWikipediaカテゴリの自動分類、および知識構造の解析。
-* **[その他の関心事]** (例) Pythonによるタスク管理自動化、競技プログラミング。
+* **[研究題目や興味のある分野]** LLMを用いたデータアノテーション、およびデータベース構築。
+* **[その他の関心事]**  競技プログラミング、Androidアプリ開発。
 
 ---
 
@@ -23,7 +23,7 @@ Email: [your-email] [at] gmail.com / GitHub: [your-github-id]
 
 ### 1. Wikipediaカテゴリ分類プロジェクト (2025 - 2026)
 * LLMを活用したカテゴリ分類のプロンプトエンジニアリングおよび評価。
-* 使用技術: Python, OpenAI API / Gemini API
+* 使用技術: Python, OpenAI API, vLLM, 
 
 ### 2. タスク管理アプリケーションの開発
 * PygameまたはGUIライブラリを用いた、エンジニア向けのタスク管理ツールの作成。
