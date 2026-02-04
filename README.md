@@ -1,7 +1,7 @@
 # 氏名 / S.T.
 
 [所属：北海道大学 工学部 情報エレクトロニクス学科 4年]  
-Email: example@gmail.com / GitHub: 
+Email: example@gmail.com / GitHub: https://st-dotcom.github.io/st-dotcom/
 
 ---
 
@@ -15,7 +15,7 @@ Email: example@gmail.com / GitHub:
 ## 研究テーマ / Research Interests
 
 * **[研究題目や興味のある分野]** LLMを用いたデータアノテーション、およびデータベース構築。
-* **[その他の関心事]**  競技プログラミング、Androidアプリ開発。
+* **[その他の関心事]**  競技プログラミング、Androidアプリ開発、WEBアプリ開発、バイブコーティング、大規模言語モデルのハルシネーション軽減、地方の公共交通。
 
 ---
 
@@ -23,10 +23,13 @@ Email: example@gmail.com / GitHub:
 
 ### 1. Wikipediaカテゴリ分類プロジェクト (2025 - 2026)
 * LLMを活用したカテゴリ分類のプロンプトエンジニアリングおよび評価。
-* 使用技術: Python, OpenAI API, vLLM, 
+* 使用技術: Python, OpenAI API, vLLM, KV cache,プロンプトエンジニアリング.
 
-### 2. タスク管理アプリケーションの開発
-* PygameまたはGUIライブラリを用いた、エンジニア向けのタスク管理ツールの作成。
+### 2. WEBアプリケーションの開発(2024 - 現在)
+* エンジニア向けのタスク管理ツールの作成。
+* 飛行機乗り換えアプリの開発。
+* ポモドーロタイマーの開発。
+* 研究室在籍表の開発。
 
 ---
 
