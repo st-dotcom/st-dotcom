@@ -32,7 +32,7 @@ Email: example@gmail.com / GitHub: https://st-dotcom.github.io/st-dotcom/
 * ポモドーロタイマーの開発。
 * 研究室在籍表の開発。
 
-スマートフォンアプリの開発
+### 3. スマートフォンアプリの開発
 * 家計簿アプリの作成(Android)
 
 ---
