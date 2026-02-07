@@ -7,7 +7,8 @@ Email: example@gmail.com / GitHub: https://st-dotcom.github.io/st-dotcom/
 
 ## 経歴 / Biography
 
-* **2022.04 - 現在 北海道大学 工学部 情報エレクトロニクス学科
+* **2026.04 - 現在 北海道大学 大学院情報科学院 情報理工学コース
+* **2022.04 - 2026 03 北海道大学 工学部 情報エレクトロニクス学科 情報理工学コース
 * **2018.04 - 2021.03 secret高校 卒業
 
 ---
@@ -53,6 +54,7 @@ Email: example@gmail.com / GitHub: https://st-dotcom.github.io/st-dotcom/
 * 2024年 3月: 札幌市食品衛生責任者 取得
 * 2024年 10月: 日本本土四極踏破証明書取得(日本本土の「最北端」「最東端」「最南端」「最西端」に到達)
 * 2025年 1月: TOEIC R&L 695点
+* 2026年 3月: 情報理工学士
 
 ---
 © 2026 S.T. All rights reserved.
