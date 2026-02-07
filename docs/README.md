@@ -48,6 +48,7 @@ Email: example@gmail.com / GitHub: https://st-dotcom.github.io/st-dotcom/
 
 ## 資格・賞罰 / Awards & Certificates
 
+* 2023年 7月: キーエンス財団　2023年度「がんばれ！日本の大学生応援給付金」採用
 * 2024年 3月: 札幌市食品衛生責任者 取得
 * 2025年 1月: TOEIC R&L 695点
 
