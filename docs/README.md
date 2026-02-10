@@ -35,8 +35,8 @@ Email: example@gmail.com / GitHub: https://st-dotcom.github.io/st-dotcom/
 * 選挙当落アプリ
 
 ### 3. Androidアプリの開発
-* 家計簿アプリの作成.
-* 勉強時間記録アプリの作成.
+* 家計簿アプリ
+* 勉強時間記録アプリ
 
 ---
 
