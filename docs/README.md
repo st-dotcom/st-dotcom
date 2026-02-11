@@ -8,14 +8,14 @@ Email: example@gmail.com / GitHub: https://st-dotcom.github.io/st-dotcom/
 ## 経歴 / Biography
 
 * 2026.04 - 現在 北海道大学 大学院情報科学院 情報理工学コース
-* 2022.04 - 2026 03 北海道大学 工学部 情報エレクトロニクス学科 情報理工学コース
+* 2022.04 - 2026.03 北海道大学 工学部 情報エレクトロニクス学科 情報理工学コース
 * 2018.04 - 2021.03 secret高校 卒業
 
 ---
 
 ## 研究テーマ / Research Interests
 
-* **[研究題目や興味のある分野]** LLMを用いたデータアノテーション,およびデータベース構築.
+* **[研究題目]** LLMを用いたデータアノテーション,およびデータベース,KB構築.
 * **[その他の関心事]**  競技プログラミング, Androidアプリ開発, WEBアプリ開発, バイブコーティング, 大規模言語モデルのハルシネーション軽減, 地方の公共交通, 数理最適化, 外国語学習.
 
 ---
@@ -24,7 +24,7 @@ Email: example@gmail.com / GitHub: https://st-dotcom.github.io/st-dotcom/
 
 ### 1. Wikipediaカテゴリ分類プロジェクト (2025 - 現在)
 * LLMを活用したWikipediaのデータ分類および評価とデータセット構築.
-* 使用技術: Python, vLLM, KV cache, プロンプトエンジニアリング.
+* 使用技術やライブラリ: Python, vLLM, KV cache.
 
 ### 2. WEBアプリの開発
 * スタイリッシュな時計アプリ
@@ -44,7 +44,7 @@ Email: example@gmail.com / GitHub: https://st-dotcom.github.io/st-dotcom/
 
 * **Programming:** Python (主な使用ライブラリ:NumPy, Pandas, Pygame, vLLM.)
 * **Language:** 日本語, 英語, タイ語, ベトナム語, 韓国語, 中国語.
-* **Others:** 競技プログラミング, 料理, 水泳, 格安旅行.
+* **Others:** 競技プログラミング, 水泳, 海外旅行, ドライブ, 料理.
 
 ---
 
@@ -55,6 +55,7 @@ Email: example@gmail.com / GitHub: https://st-dotcom.github.io/st-dotcom/
 * 2024年 3月: 札幌市食品衛生責任者 取得
 * 2024年 10月: 日本本土四極踏破証明書取得(日本本土の「最北端」「最東端」「最南端」「最西端」に到達)
 * 2025年 1月: TOEIC R&L 695点
+* 2026年 1月: 国外運転免許取得
 * 2026年 3月: 工学士 (Bachelor of Engineering)
 
 ---
