@@ -39,6 +39,9 @@ Email: example@gmail.com / GitHub: https://st-dotcom.github.io/st-dotcom/
 * 家計簿アプリ
 * 勉強時間記録アプリ
 
+### 4. 再開発ブログの執筆
+[札幌再開発ブログへようこそ](https://st-dotcom.github.io/sapporo-redevelopment-log/)
+
 ---
 
 ## スキル / Skills
