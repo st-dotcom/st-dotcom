@@ -61,6 +61,8 @@ Email: example@gmail.com / GitHub: https://st-dotcom.github.io/st-dotcom/
 
 ## メモ帳 / Memorandum
 
+* Hugging Faceアクセストークンを入手して、LLMを動かそう！
+[Huggin Faceのアクセストークンの発行と入手方法](./hug_token.md)
 * ローカルLLM実行ガイド
 [A6000 2枚を使ってローカルLLMをKVキャッシュを効かせつつ並列実行する方法](./vllm-a6000-parallel.md)
 
