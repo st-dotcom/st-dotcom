@@ -1,7 +1,7 @@
 # 氏名 / S.T.
 
 [所属：北海道大学 工学部 情報エレクトロニクス学科 4年]  
-Email: example@gmail.com / GitHub: [メインページ](https://github.com/st-dotcom/)
+Email: example@gmail.com / GitHub: [メインページ](https://st-dotcom.github.io/st-dotcom/)
 
 ---
 
