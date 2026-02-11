@@ -27,7 +27,7 @@ Email: example@gmail.com / GitHub: https://st-dotcom.github.io/st-dotcom/
 * 使用技術やライブラリ: Python, vLLM, KV cache.
 
 ### 2. WEBアプリの開発
-* スタイリッシュな時計アプリ
+* スタイリッシュな時計アプリ [TIME](https://time-wine-chi.vercel.app/)
 * 飛行機乗り換えアプリ
 * ポモドーロタイマー
 * 研究室在籍表
@@ -40,7 +40,7 @@ Email: example@gmail.com / GitHub: https://st-dotcom.github.io/st-dotcom/
 * 勉強時間記録アプリ
 
 ### 4. 再開発ブログの執筆
-[札幌再開発ブログへようこそ](https://st-dotcom.github.io/sapporo-redevelopment-log/)
+* 再開発に関する情報を集めるのが趣味で,ブログを運営し始めた.[札幌再開発ブログへようこそ](https://st-dotcom.github.io/sapporo-redevelopment-log/)
 
 ---
 
