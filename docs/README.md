@@ -23,7 +23,7 @@ Email: example@gmail.com / GitHub: https://st-dotcom.github.io/st-dotcom/
 ## プロジェクト・活動 / Projects & Activities
 
 ### 1. Wikipediaカテゴリ分類プロジェクト (2025 - 現在)
-* LLMを活用したWikipediaのデータ分類および評価とデータセット構築.
+* LLMを活用したWikipediaのデータ分類および評価とデータセット構築.(AIの学習データなどの利用を想定)
 * 使用技術やライブラリ: Python, vLLM, KV cache.
 
 ### 2. WEBアプリの開発
