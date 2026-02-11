@@ -7,24 +7,30 @@ NVIDIA RTX A6000 2枚を用いた環境で、vLLMを使用して `openai/gpt-oss
 Linux個人環境（一般ユーザ権限）でPython環境を構築するためにMinicondaを利用します。
 すでにConda環境がある場合は、このステップをスキップしてください。
 
-### インストーラのダウンロード
+### 1-1. インストーラのダウンロード
 ```bash
 cd ~/Downloads
 # x86_64向け (ARM系の場合はURLを変更してください)
 wget [https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh](https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh)
-セットアップ実行
-Bash
+
+```
+
+### 1-2. セットアップ実行
+
+```bash
 bash Miniconda3-latest-Linux-x86_64.sh
+
+```
+
 対話モードで以下のように回答します：
 
-利用規約: yes
+* **利用規約**: `yes`
+* **インストール場所**: `~/miniconda3` （デフォルト推奨）
+* **conda initを実行**: `yes`
 
-インストール場所: ~/miniconda3 （デフォルト推奨）
+### 1-3. シェルの再読み込みと確認
 
-conda initを実行: yes
-
-シェルの再読み込みと確認
-Bash
+```bash
 # Bashの場合
 source ~/.bashrc
 
@@ -33,38 +39,63 @@ source ~/.zshrc
 
 # バージョン確認
 conda --version
-初期設定（推奨）
-conda-forge を優先設定にしておくと、パッケージ依存解決がスムーズになります。
 
-Bash
+```
+
+### 1-4. 初期設定（推奨）
+
+`conda-forge` を優先設定にしておくと、パッケージ依存解決がスムーズになります。
+
+```bash
 conda config --add channels conda-forge
 conda config --set channel_priority strict
-### 2. vLLM実行用環境の作成
+
+```
+
+---
+
+## 2. vLLM実行用環境の作成
+
 vLLM用の仮想環境を作成し、必要なライブラリをインストールします。
 
-仮想環境の作成 (Python 3.11)
-Bash
+### 2-1. 仮想環境の作成 (Python 3.11)
+
+```bash
 conda create -n vllm python=3.11 -y
 conda activate vllm
-必要なライブラリのインストール
+
+```
+
+### 2-2. 必要なライブラリのインストール
+
 vLLM本体と、Hugging Face Hubへのログインツールを入れます。
 
-Bash
+```bash
 pip install vllm huggingface_hub
-### 3. モデルの実行
-Hugging Face トークンの設定
+
+```
+
+---
+
+## 3. モデルの実行
+
+### 3-1. Hugging Face トークンの設定
+
 モデルのダウンロード権限があるトークンを環境変数に設定します。
 
-Bash
+```bash
 export HUGGINGFACE_HUB_TOKEN=あなたのトークン文字列
-vLLMサーバーの起動
+
+```
+
+### 3-2. vLLMサーバーの起動
+
 以下のコマンドでサーバーを立ち上げます。
 
-GPU数: A6000 × 2枚 (--tensor-parallel-size 2)
+* **GPU数**: A6000 × 2枚 (`--tensor-parallel-size 2`)
+* **機能**: KVキャッシュ有効化 (`--enable-prefix-caching`)
 
-機能: KVキャッシュ有効化 (--enable-prefix-caching)
-
-Bash
+```bash
 python -m vllm.entrypoints.openai.api_server \
   --model openai/gpt-oss-20b \
   --tensor-parallel-size 2 \
@@ -74,11 +105,14 @@ python -m vllm.entrypoints.openai.api_server \
   --trust-remote-code \
   --enforce-eager \
   --enable-prefix-caching
-パラメータ解説
---tensor-parallel-size 2: GPUを2枚使用してモデルを分割ロードします。
 
---enable-prefix-caching: プロンプトのKVキャッシュを再利用し、処理を高速化します。
+```
 
---gpu-memory-utilization 0.95: GPUメモリの95%をvLLMに使用させます。
+### パラメータ解説
 
---enforce-eager: CUDAグラフ関連のエラーが出る場合にEagerモードで実行させます（安定性重視）。
+| パラメータ | 説明 |
+| --- | --- |
+| `--tensor-parallel-size 2` | GPUを2枚使用してモデルを分割ロードします（並列化）。 |
+| `--enable-prefix-caching` | プロンプトのKVキャッシュを再利用し、処理を高速化します。 |
+| `--gpu-memory-utilization 0.95` | GPUメモリの95%をvLLMに使用させます。 |
+| `--enforce-eager` | CUDAグラフ関連のエラーが出る場合にEagerモードで実行させます（安定性重視）。 |
