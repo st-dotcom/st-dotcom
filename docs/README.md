@@ -58,4 +58,12 @@ Email: example@gmail.com / GitHub: https://st-dotcom.github.io/st-dotcom/
 * 2026年 3月: 情報理工学士
 
 ---
+
+## メモ帳 / Memorandum
+
+* ローカルLLM実行ガイド
+[A6000 2枚を使ってローカルLLMをKVキャッシュを効かせつつ並列実行する方法](./vllm-a6000-parallel.md)
+
+---
+
 © 2026 S.T. All rights reserved.
