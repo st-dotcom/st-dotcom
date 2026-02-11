@@ -6,8 +6,6 @@ NVIDIA RTX A6000 × 2枚環境で、vLLMを用いたローカルLLM（`openai/gp
 1. [Webでのトークン発行手順](#1-webでのトークン発行手順)
 2. [【重要】Gated Modelの承認](#2-重要gated-modelの承認)
 3. [環境変数への設定](#3-環境変数への設定)
-4. [接続テスト](#4-接続テスト)
-5. [vLLMの起動](#5-vllmの起動)
 
 ---
 
@@ -59,5 +57,5 @@ Llama 3やGemmaなど、一部のモデルはトークンがあるだけでは�
 現在のターミナルセッションのみ有効な設定です。
 
 ```bash
-# 下記の hf_xxxxx を自分のトークンに書き換えて実行
+下記の hf_xxxxx を自分のトークンに書き換えて実行
 export HUGGINGFACE_HUB_TOKEN=hf_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
