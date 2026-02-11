@@ -57,7 +57,6 @@ Llama 3やGemmaなど、一部のモデルはトークンがあるだけでは�
 現在のターミナルセッションのみ有効な設定です。
 
 ```bash
-cd ~/Downloads
 # 下記の hf_xxxxx を自分のトークンに書き換えて実行
 export HUGGINGFACE_HUB_TOKEN=hf_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ```
