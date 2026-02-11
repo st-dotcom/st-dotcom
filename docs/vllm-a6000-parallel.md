@@ -39,7 +39,7 @@ conda-forge を優先設定にしておくと、パッケージ依存解決が�
 Bash
 conda config --add channels conda-forge
 conda config --set channel_priority strict
-2. vLLM実行用環境の作成
+### 2. vLLM実行用環境の作成
 vLLM用の仮想環境を作成し、必要なライブラリをインストールします。
 
 仮想環境の作成 (Python 3.11)
@@ -51,7 +51,7 @@ vLLM本体と、Hugging Face Hubへのログインツールを入れます。
 
 Bash
 pip install vllm huggingface_hub
-3. モデルの実行
+### 3. モデルの実行
 Hugging Face トークンの設定
 モデルのダウンロード権限があるトークンを環境変数に設定します。
 
