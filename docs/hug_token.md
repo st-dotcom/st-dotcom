@@ -1,6 +1,6 @@
 # 🔑 Hugging Face アクセストークン発行 & 環境構築ガイド
 
-NVIDIA RTX A6000 × 2枚環境で、vLLMを用いたローカルLLM（`openai/gpt-oss-20b` 等）を動かすための認証設定手順です。
+ローカルLLM（`openai/gpt-oss-20b` 等）を動かすための認証設定手順です。
 
 ## 📋 目次
 1. [Webでのトークン発行手順](#1-webでのトークン発行手順)
@@ -11,7 +11,7 @@ NVIDIA RTX A6000 × 2枚環境で、vLLMを用いたローカルLLM（`openai/gp
 
 ## 1. Webでのトークン発行手順
 
-モデルをダウンロードするためには、Hugging Faceアカウントで「Read（読み取り）」権限を持つトークンを発行する必要があります。
+Hugging Faceでローカルモデルをダウンロードするためには、Hugging Faceアカウントで「Read（読み取り）」権限を持つトークンを発行する必要があります。
 
 1.  **設定ページへアクセス**
     Hugging Faceにログインし、右上のアイコンから **[Settings]** を選択します。
