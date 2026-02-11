@@ -55,7 +55,7 @@ Email: example@gmail.com / GitHub: https://st-dotcom.github.io/st-dotcom/
 * 2024年 3月: 札幌市食品衛生責任者 取得
 * 2024年 10月: 日本本土四極踏破証明書取得(日本本土の「最北端」「最東端」「最南端」「最西端」に到達)
 * 2025年 1月: TOEIC R&L 695点
-* 2026年 3月: 情報理工学士
+* 2026年 3月: 工学士 (Bachelor of Engineering)
 
 ---
 
