@@ -33,6 +33,7 @@ Email: example@gmail.com / GitHub: https://st-dotcom.github.io/st-dotcom/
 * 研究室在籍表
 * 割り勘アプリ
 * 選挙当落アプリ
+* Wikipediaを利用したアプリ https://snow-letter.vercel.app/
 
 ### 3. Androidアプリの開発
 * 家計簿アプリ
