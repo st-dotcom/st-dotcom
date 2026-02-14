@@ -13,6 +13,7 @@ Email: example@gmail.com / GitHub: [メインページ](https://st-dotcom.github
 * [資格・賞罰](## 資格・賞罰 / Awards & Certificates)
 * [メモ帳](## メモ帳 / Memorandum)
 
+---
 
 ## 経歴 / Biography
 
