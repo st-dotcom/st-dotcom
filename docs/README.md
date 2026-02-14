@@ -8,7 +8,7 @@ Email: example@gmail.com / GitHub: [メインページ](https://st-dotcom.github
 ## 目次
 * [経歴](## 経歴 / Biography)
 * [研究テーマ](## 研究テーマ / Research Interests)
-* [プロジェク・活動](## プロジェクト・活動 / Projects & Activities)
+* [プロジェクト・活動](## プロジェクト・活動 / Projects & Activities)
 * [スキル](## スキル / Skills)
 * [資格・賞罰](## 資格・賞罰 / Awards & Certificates)
 * [メモ帳](## メモ帳 / Memorandum)
