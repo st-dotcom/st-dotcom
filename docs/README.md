@@ -31,7 +31,7 @@ Email: example@gmail.com / GitHub: [メインページ](https://st-dotcom.github
 * Wikipediaを利用したアプリ [Word Snowfall App](https://snow-letter.vercel.app/)
 * オリジナルグルメガイドアプリ [Gourment Guide](https://hokudai-gourment.vercel.app/)
 * ポモドーロタイマー [Pomodoro Pro](https://pomodoro-rouge-ten.vercel.app/)
-* 半角全角変換ツール
+* 半角全角変換ツール [半角全角変換ツール](https://hankakuzenkaku.vercel.app/)
 
 ### 3. Androidアプリの開発 (2025 - 現在)
 * 家計簿アプリ
