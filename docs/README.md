@@ -29,7 +29,6 @@ Email: example@gmail.com / GitHub: [メインページ](https://st-dotcom.github
 ### 2. WEBアプリの開発 (2023 - 現在)
 * スタイリッシュな時計アプリ [TIME](https://time-wine-chi.vercel.app/)
 * Wikipediaを利用したアプリ [Word Snowfall App](https://snow-letter.vercel.app/)
-* オリジナルグルメガイドアプリ [Gourment Guide](https://hokudai-gourment.vercel.app/)
 * ポモドーロタイマー [Pomodoro Pro](https://pomodoro-rouge-ten.vercel.app/)
 * 半角全角変換ツール [半角全角変換ツール](https://hankakuzenkaku.vercel.app/)
 
@@ -37,7 +36,8 @@ Email: example@gmail.com / GitHub: [メインページ](https://st-dotcom.github
 * 家計簿アプリ
 * 勉強時間記録アプリ
 
-### 4. 再開発ブログの執筆 (2026 - 現在)
+### 4. ブログなど (2025 - 現在)
+* オリジナルグルメガイド [北海道大学周辺の飲食店](https://hokudai-gourment.vercel.app/)
 * 再開発に関する情報を集めるのが趣味で,ブログを運営し始めた.[札幌再開発ブログへようこそ](https://st-dotcom.github.io/sapporo-redevelopment-log/)
 
 ---
