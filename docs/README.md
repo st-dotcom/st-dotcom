@@ -5,17 +5,7 @@ Email: example@gmail.com / GitHub: [メインページ](https://st-dotcom.github
 
 ---
 
-## 目次
-* [経歴](# 経歴 - Biography)
-* [研究テーマ](# 研究テーマ - Research Interests)
-* [プロジェクト・活動](# プロジェクト・活動 - Projects & Activities)
-* [スキル](# スキル - Skills)
-* [資格・賞罰](# 資格・賞罰 - Awards & Certificates)
-* [メモ帳](# メモ帳 - Memorandum)
-
----
-
-# 経歴 - Biography
+## 経歴 / Biography
 
 * 2026.04 - 現在 北海道大学 大学院情報科学院 情報理工学コース
 * 2022.04 - 2026.03 北海道大学 工学部 情報エレクトロニクス学科 情報理工学コース
@@ -23,14 +13,14 @@ Email: example@gmail.com / GitHub: [メインページ](https://st-dotcom.github
 
 ---
 
-# 研究テーマ - Research Interests
+## 研究テーマ / Research Interests
 
 * **[研究題目]** LLMを用いたデータアノテーション,およびデータベース,KB構築.
 * **[その他の関心事]**  競技プログラミング, Androidアプリ開発, WEBアプリ開発, バイブコーティング, 大規模言語モデルのハルシネーション軽減, 地方の公共交通, 数理最適化, 外国語学習.
 
 ---
 
-# プロジェクト・活動 - Projects & Activities
+## プロジェクト・活動 / Projects & Activities
 
 ### 1. Wikipediaカテゴリ分類プロジェクト (2025 - 現在)
 * LLMを活用したWikipediaのデータ分類および評価とデータセット構築.(AIの学習データなどの利用を想定)
@@ -52,7 +42,7 @@ Email: example@gmail.com / GitHub: [メインページ](https://st-dotcom.github
 
 ---
 
-# スキル - Skills
+## スキル / Skills
 
 * **Programming:** Python (主な使用ライブラリ:NumPy, Pandas, Pygame, vLLM.)
 * **Language:** 日本語, 英語, タイ語, ベトナム語, 韓国語, 中国語.
@@ -60,7 +50,7 @@ Email: example@gmail.com / GitHub: [メインページ](https://st-dotcom.github
 
 ---
 
-# 資格・賞罰 - Awards & Certificates
+## 資格・賞罰 / Awards & Certificates
 
 * 2023年 7月: キーエンス財団 2023年度「がんばれ！日本の大学生応援給付金」採用
 * 2023年 11月: 2023年度 北海道「道の駅」スタンプラリー完走
@@ -72,7 +62,7 @@ Email: example@gmail.com / GitHub: [メインページ](https://st-dotcom.github
 
 ---
 
-# メモ帳 - Memorandum
+## メモ帳 / Memorandum
 
 * Hugging Faceアクセストークンを入手して、LLMを動かそう！
 [Hugging Face アクセストークン発行 & 環境構築ガイド](./hug_token.md)
