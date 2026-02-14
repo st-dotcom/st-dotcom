@@ -28,12 +28,8 @@ Email: example@gmail.com / GitHub: [メインページ](https://st-dotcom.github
 
 ### 2. WEBアプリの開発
 * スタイリッシュな時計アプリ [TIME](https://time-wine-chi.vercel.app/)
-* 飛行機乗り換えアプリ
-* ポモドーロタイマー
-* 研究室在籍表
-* 割り勘アプリ
-* 選挙当落アプリ
 * Wikipediaを利用したアプリ [Word Snowfall App](https://snow-letter.vercel.app/)
+* オリジナルグルメガイドアプリ [Gourment Guide](https://st-dotcom.github.io/hokudai_gourment/)
 
 ### 3. Androidアプリの開発
 * 家計簿アプリ
