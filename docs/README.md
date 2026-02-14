@@ -5,6 +5,15 @@ Email: example@gmail.com / GitHub: [メインページ](https://st-dotcom.github
 
 ---
 
+## 目次
+* [経歴](## 経歴 / Biography)
+* [研究テーマ](## 研究テーマ / Research Interests)
+* [プロジェク・活動](## プロジェクト・活動 / Projects & Activities)
+* [スキル](## スキル / Skills)
+* [資格・賞罰](## 資格・賞罰 / Awards & Certificates)
+* [メモ帳](## メモ帳 / Memorandum)
+
+
 ## 経歴 / Biography
 
 * 2026.04 - 現在 北海道大学 大学院情報科学院 情報理工学コース
