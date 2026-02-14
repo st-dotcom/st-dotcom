@@ -26,17 +26,18 @@ Email: example@gmail.com / GitHub: [メインページ](https://st-dotcom.github
 * LLMを活用したWikipediaのデータ分類および評価とデータセット構築.(AIの学習データなどの利用を想定)
 * 使用技術やライブラリ: Python, vLLM, KV cache.
 
-### 2. WEBアプリの開発
+### 2. WEBアプリの開発 (2023 - 現在)
 * スタイリッシュな時計アプリ [TIME](https://time-wine-chi.vercel.app/)
 * Wikipediaを利用したアプリ [Word Snowfall App](https://snow-letter.vercel.app/)
 * オリジナルグルメガイドアプリ [Gourment Guide](https://hokudai-gourment.vercel.app/)
 * ポモドーロタイマー [Pomodoro Pro](https://pomodoro-rouge-ten.vercel.app/)
+* 半角全角変換ツール
 
-### 3. Androidアプリの開発
+### 3. Androidアプリの開発 (2025 - 現在)
 * 家計簿アプリ
 * 勉強時間記録アプリ
 
-### 4. 再開発ブログの執筆
+### 4. 再開発ブログの執筆 (2026 - 現在)
 * 再開発に関する情報を集めるのが趣味で,ブログを運営し始めた.[札幌再開発ブログへようこそ](https://st-dotcom.github.io/sapporo-redevelopment-log/)
 
 ---
