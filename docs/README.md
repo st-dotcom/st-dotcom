@@ -46,8 +46,8 @@ Email: example@gmail.com / GitHub: [メインページ](https://st-dotcom.github
 ## スキル / Skills
 
 * **Programming:** Python (主な使用ライブラリ:NumPy, Pandas, Pygame, vLLM.)
-* **Language:** 日本語, 英語, タイ語, ベトナム語, 韓国語, 中国語.
-* **Others:** 競技プログラミング, 水泳, 海外旅行, ドライブ, 料理.
+* **Language:** 日本語, 英語.
+* **Others:** 競技プログラミング, 水泳, 海外旅行, ドライブ, 料理, 筋トレ.
 
 ---
 
@@ -59,7 +59,7 @@ Email: example@gmail.com / GitHub: [メインページ](https://st-dotcom.github
 * 2024年 10月: 日本本土四極踏破証明書取得(日本本土の「最北端」「最東端」「最南端」「最西端」に到達)
 * 2025年 1月: TOEIC R&L 695点
 * 2026年 1月: 国外運転免許取得
-* 2026年 3月: 工学士 (Bachelor of Engineering)
+* 2026年 3月: 学士(工学) (Bachelor of Engineering)
 
 ---
 
