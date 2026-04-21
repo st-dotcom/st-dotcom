@@ -1,6 +1,6 @@
-# 氏名 / S.T.
+# 氏名 / TS
 
-[所属：北海道大学 工学部 情報エレクトロニクス学科 4年]  
+[所属：北海道大学 情報科学院 修士1年]  
 Email: example@gmail.com / GitHub: [メインページ](https://st-dotcom.github.io/st-dotcom/)
 
 ---
@@ -15,7 +15,7 @@ Email: example@gmail.com / GitHub: [メインページ](https://st-dotcom.github
 
 ## 研究テーマ / Research Interests
 
-* **[研究題目]** LLMを用いたデータアノテーション,およびデータベース,KB構築.
+* **[研究題目]** LLMを用いたデータアノテーション,およびKB構築.
 * **[その他の関心事]**  競技プログラミング, Androidアプリ開発, WEBアプリ開発, バイブコーティング, 大規模言語モデルのハルシネーション軽減, 地方の公共交通, 数理最適化, 外国語学習.
 
 ---
@@ -31,11 +31,12 @@ Email: example@gmail.com / GitHub: [メインページ](https://st-dotcom.github
 * Wikipediaを利用したアプリ [Word Snowfall App](https://snow-letter.vercel.app/)
 * ポモドーロタイマー [Pomodoro Pro](https://pomodoro-rouge-ten.vercel.app/)
 * 半角全角変換ツール [半角全角変換ツール](https://hankakuzenkaku.vercel.app/)
-* 英単語数カウントツール[LexiScan](https://moji-count-e7wh.vercel.app/)
+* 英単語数カウントツール [LexiScan](https://moji-count-e7wh.vercel.app/)
+* AI英単語学習ツール [AI CEFR Tutor](https://vercel.com/sts-projects-2a8461fa/gemini-vocab-app)
 
 ### 3. Androidアプリの開発 (2025 - 現在)
 * 家計簿アプリ
-* 勉強時間記録アプリ
+* 学習記録アプリ
 
 ### 4. ブログなど (2025 - 現在)
 * オリジナルグルメガイド [北海道大学周辺の飲食店](https://hokudai-gourment.vercel.app/)
@@ -45,7 +46,7 @@ Email: example@gmail.com / GitHub: [メインページ](https://st-dotcom.github
 
 ## スキル / Skills
 
-* **Programming:** Python (主な使用ライブラリ:NumPy, Pandas, Pygame, vLLM.)
+* **Programming:** Python (主な使用ライブラリ:NumPy, Pandas, Pygame, vLLM.), Kotlin, Java, HTMML&CSS.
 * **Language:** 日本語, 英語.
 * **Others:** 競技プログラミング, 水泳, 海外旅行, ドライブ, 料理, 筋トレ.
 
