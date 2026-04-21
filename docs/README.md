@@ -32,7 +32,7 @@ Email: example@gmail.com / GitHub: [メインページ](https://st-dotcom.github
 * ポモドーロタイマー [Pomodoro Pro](https://pomodoro-rouge-ten.vercel.app/)
 * 半角全角変換ツール [半角全角変換ツール](https://hankakuzenkaku.vercel.app/)
 * 英単語数カウントツール [LexiScan](https://moji-count-e7wh.vercel.app/)
-* AI英単語学習ツール [AI CEFR Tutor](https://vercel.com/sts-projects-2a8461fa/gemini-vocab-app)
+* AI英単語学習ツール [AI CEFR Tutor](https://gemini-vocab-app.vercel.app/)
 
 ### 3. Androidアプリの開発 (2025 - 現在)
 * 家計簿アプリ
