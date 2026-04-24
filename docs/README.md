@@ -33,7 +33,7 @@ Email: example@gmail.com / GitHub: [メインページ](https://st-dotcom.github
 * 半角全角変換ツール [半角全角変換ツール](https://hankakuzenkaku.vercel.app/)
 * 英単語数カウントツール [LexiScan](https://moji-count-e7wh.vercel.app/)
 * AI英単語学習ツール [AI CEFR Tutor](https://gemini-vocab-app.vercel.app/)
-
+* 英文難易度解析ツール [English Difficulty Analyzer](https://english-difficulty-analyzer.vercel.app/)
 ### 3. Androidアプリの開発 (2025 - 現在)
 * 家計簿アプリ
 * 学習記録アプリ
