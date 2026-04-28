@@ -9,13 +9,12 @@ Email: example@gmail.com / GitHub: [メインページ](https://st-dotcom.github
 
 * 2026.04 - 現在 北海道大学 大学院情報科学院 情報理工学コース
 * 2022.04 - 2026.03 北海道大学 工学部 情報エレクトロニクス学科 情報理工学コース
-* 2018.04 - 2021.03 secret高校 卒業
 
 ---
 
 ## 研究テーマ / Research Interests
 
-* **[研究題目]** LLMを用いたデータアノテーション,およびKB構築.
+* **[研究題目]** LLMを用いたデータアノテーション,および有用なKB構築.
 * **[その他の関心事]**  競技プログラミング, Androidアプリ開発, WEBアプリ開発, バイブコーティング, 大規模言語モデルのハルシネーション軽減, 地方の公共交通, 数理最適化, 外国語学習.
 
 ---
@@ -46,9 +45,9 @@ Email: example@gmail.com / GitHub: [メインページ](https://st-dotcom.github
 
 ## スキル / Skills
 
-* **Programming:** Python (主な使用ライブラリ:NumPy, Pandas, Pygame, vLLM.), Kotlin, Java, HTMML&CSS.
+* **Programming:** Python (主な使用ライブラリ:NumPy, Pandas, Pygame, vLLM.), Kotlin, Java, HTMML&CSS, JavaScript, TypeScript.
 * **Language:** 日本語, 英語.
-* **Others:** 競技プログラミング, 水泳, 海外旅行, ドライブ, 料理, 筋トレ.
+* **Others:** 競技プログラミング, 水泳, 海外旅行, ドライブ, 料理(特に和食とパスタ), 筋トレ.
 
 ---
 
