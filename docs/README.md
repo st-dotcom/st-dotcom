@@ -1,7 +1,7 @@
 # 氏名 / TS
 
 [所属：北海道大学 情報科学院 修士1年]  
-Email: example@gmail.com / GitHub: [メインページ](https://st-dotcom.github.io/st-dotcom/)
+GitHub: [メインページ](https://st-dotcom.github.io/st-dotcom/)
 
 ---
 
@@ -14,7 +14,7 @@ Email: example@gmail.com / GitHub: [メインページ](https://st-dotcom.github
 
 ## 研究テーマ / Research Interests
 
-* **[研究題目]** LLMを用いたデータアノテーション,および有用なKB構築.
+* **[研究題目]** LLMを用いたデータアノテーション,および有用なナレッジベース構築.
 * **[その他の関心事]**  競技プログラミング, Androidアプリ開発, WEBアプリ開発, バイブコーティング, 大規模言語モデルのハルシネーション軽減, 地方の公共交通, 数理最適化, 外国語学習.
 
 ---
@@ -33,7 +33,7 @@ Email: example@gmail.com / GitHub: [メインページ](https://st-dotcom.github
 * 英単語数カウントツール [LexiScan](https://moji-count-e7wh.vercel.app/)
 * AI英単語学習ツール [AI CEFR Tutor](https://gemini-vocab-app.vercel.app/)
 * 英文難易度解析ツール [English Difficulty Analyzer](https://english-difficulty-analyzer.vercel.app/)
-### 3. Androidアプリの開発 (2025 - 現在)
+### 3. Androidアプリの開発 (2023 - 現在)
 * 家計簿アプリ
 * 学習記録アプリ
 
