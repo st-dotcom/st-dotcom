@@ -3,6 +3,8 @@
 [所属：北海道大学 情報科学院 修士1年]  
 GitHub: [メインページ](https://st-dotcom.github.io/st-dotcom/)
 
+---
+
 ## 目次 / Table of Contents
 
 * [経歴 / Biography](#経歴--biography)
