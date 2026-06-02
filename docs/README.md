@@ -66,6 +66,15 @@ GitHub: [メインページ](https://st-dotcom.github.io/st-dotcom/)
 
 ---
 
+## 読んで面白かった本 / Reading Journal
+
+* 野球データでやさしく学べるPython入門 [Amazon](https://www.amazon.co.jp/%E9%87%8E%E7%90%83%E3%83%87%E3%83%BC%E3%82%BF%E3%81%A7%E3%82%84%E3%81%95%E3%81%97%E3%81%8F%E5%AD%A6%E3%81%B9%E3%82%8BPython%E5%85%A5%E9%96%80-%E3%81%84%E3%81%8D%E3%81%AA%E3%82%8A%E3%80%8C%E3%82%B0%E3%83%A9%E3%83%95%E4%BD%9C%E6%88%90%E3%80%8D%E3%80%8C%E9%A1%A7%E5%AE%A2%E5%88%86%E6%9E%90%E3%80%8D%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B-%E9%BD%8B%E8%97%A4-%E5%91%A8/dp/453406067X/ref=asc_df_453406067X?mcid=315f303b72933421ad017fe3fef7ab41&th=1&psc=1&tag=jpgo-22&linkCode=df0&hvadid=707462256684&hvpos=&hvnetw=g&hvrand=10182088824177648244&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9198025&hvtargid=pla-2300486381647&psc=1&hvocijid=10182088824177648244-453406067X-&hvexpln=0)
+* アルゴリズム的思考力が身につく! プログラミングコンテストAtCoder入門 [Amazon](https://www.amazon.co.jp/%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0%E7%9A%84%E6%80%9D%E8%80%83%E5%8A%9B%E3%81%8C%E8%BA%AB%E3%81%AB%E3%81%A4%E3%81%8F-%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E3%82%B3%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88AtCoder%E5%85%A5%E9%96%80-%E5%A4%A7%E6%A7%BB-%E5%85%BC%E8%B3%87/dp/404604408X/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=4BXA86J121UK&dib=eyJ2IjoiMSJ9.Jz_P5_n2Sbbg8NMzLZSmpvam7SUt3fUR3Q10Vuqbmy0Q9BYWGozHkuoI420GRdsTYc5cJv73JYSzA9t__j_DVdYj912J-0q5hOE9Qoyk_co5rZukZOFrMWAixv4ImpLViHfH27QULJJcDKd46lrntu0nUo85hOf61cfB32qbFYzuNsjb3p-2D2MNPHpJpQZV.w-bZCRaCDxKdIMTVuSaIE0n-blNODFHHWYKTbRzp9gI&dib_tag=se&keywords=AtCoder&qid=1780394031&s=books&sprefix=atcoder%2Cstripbooks%2C180&sr=1-1)
+* ChatGPTはどのように動いているのか? [Amazon](https://www.amazon.co.jp/ChatGPT%E3%81%AF%E3%81%A9%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB%E5%8B%95%E3%81%84%E3%81%A6%E3%81%84%E3%82%8B%E3%81%AE%E3%81%8B%EF%BC%9F-%E4%B8%AD%E8%A5%BF-%E5%B4%87%E6%96%87/dp/4798193402/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=2E8XX0C93400P&dib=eyJ2IjoiMSJ9.yUbU7GbQZQvGjgzV24PPf64qGNiWtl15-sN44V6Kf9d9WFUP7vE2gRilx6KnqjK4jhX9fTZXWVlwFr_dZ9iu_njCbEGAC8t8neJbVjBcn70.698I1V7BIiZqG8fg4WsOwPRuBNTpgnEj1eO8AwVAz0o&dib_tag=se&keywords=ChatGPT%E3%81%AF%E3%81%A9%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB&qid=1780394077&s=books&sprefix=chatgpt%E3%81%AF%E3%81%A9%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB%2Cstripbooks%2C212&sr=1-1)
+* 直感LLM [Amazon](https://www.amazon.co.jp/%E7%9B%B4%E6%84%9F-LLM-%E2%80%95%E3%83%8F%E3%83%B3%E3%82%BA%E3%82%AA%E3%83%B3%E3%81%A7%E5%8B%95%E3%81%8B%E3%81%97%E3%81%A6%E5%AD%A6%E3%81%B6%E5%A4%A7%E8%A6%8F%E6%A8%A1%E8%A8%80%E8%AA%9E%E3%83%A2%E3%83%87%E3%83%AB%E5%85%A5%E9%96%80-Jay-Alammar/dp/4814401159/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=UHRIF898X2IS&dib=eyJ2IjoiMSJ9.pT5YJpkBgzByZ_DutSg6kXP4-0En5CuKP6HiKkK2lduNNvFeaejDaKpskn_5xrnM.LHESDhzYW1FwrXOl9Pha6DLCERlAWxZxxIvKSEiejbA&dib_tag=se&keywords=%E7%9B%B4%E6%84%9FLLM&qid=1780394099&s=books&sprefix=%E7%9B%B4%E6%84%9Fllm%2Cstripbooks%2C191&sr=1-1)
+
+---
+
 ## メモ帳 / Memorandum
 
 * Hugging Faceアクセストークンを入手して、LLMを動かそう！
