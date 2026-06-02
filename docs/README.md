@@ -3,6 +3,16 @@
 [所属：北海道大学 情報科学院 修士1年]  
 GitHub: [メインページ](https://st-dotcom.github.io/st-dotcom/)
 
+## 目次 / Table of Contents
+
+* [経歴 / Biography](#経歴--biography)
+* [研究テーマ / Research Interests](#研究テーマ--research-interests)
+* [プロジェクト・活動 / Projects & Activities](#プロジェクト活動--projects--activities)
+* [スキル / Skills](#スキル--skills)
+* [資格・賞罰 / Awards & Certificates](#資格賞罰--awards--certificates)
+* [読んで面白かった本 / Reading Journal](#読んで面白かった本--reading-journal)
+* [メモ帳 / Memorandum](#メモ帳--memorandum)
+
 ---
 
 ## 経歴 / Biography
