@@ -46,6 +46,7 @@ GitHub: [メインページ](https://st-dotcom.github.io/st-dotcom/)
 * AI英単語学習ツール [AI CEFR Tutor](https://gemini-vocab-app.vercel.app/)
 * 英文難易度解析ツール [English Difficulty Analyzer](https://english-difficulty-analyzer.vercel.app/)
 * 真円を覗く時、真円もまたこちらを覗いている [perfect circle](https://perfect-circle-app.vercel.app/)
+* 索敵ならぬ作敵？新感覚OCRシューティングゲーム！ [TEXT SHOOTER](https://text-shooting.vercel.app/)
 ### 3. Androidアプリの開発 (2023 - 現在)
 * 家計簿アプリ
 * 学習記録アプリ
