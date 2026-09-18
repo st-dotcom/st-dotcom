@@ -59,6 +59,14 @@ GitHub: [メインページ](https://st-dotcom.github.io/st-dotcom/)
 * オリジナルグルメガイド [北海道大学周辺の飲食店](https://hokudai-gourment.vercel.app/)
 * 再開発に関する情報を集めるのが趣味で,ブログを運営し始めた.[札幌再開発ブログへようこそ](https://st-dotcom.github.io/sapporo-redevelopment-log/)
 
+### 5. インターンシップ(5日間以上のもの)
+* 三菱総合研究所
+* 日鉄ソリューションズ
+* 日鉄エンジニアリング
+* KDDI
+* 本田技術研究所
+* JR東日本
+
 ---
 
 ## スキル / Skills
