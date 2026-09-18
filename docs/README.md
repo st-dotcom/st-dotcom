@@ -63,7 +63,7 @@ GitHub: [メインページ](https://st-dotcom.github.io/st-dotcom/)
 
 ## スキル / Skills
 
-* **Programming:** Python (主な使用ライブラリ:NumPy, Pandas, Pygame, vLLM.), Kotlin, Java, HTMML&CSS, JavaScript, TypeScript.
+* **Programming:** Python (主な使用ライブラリ:NumPy, Pandas, Pygame, vLLM.), Kotlin, Java, HTML&CSS, JavaScript, TypeScript.
 * **Language:** 日本語, 英語.
 * **Others:** 競技プログラミング, 水泳, 海外旅行, ドライブ, 料理(特に和食とパスタ), 筋トレ.
 
